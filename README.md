@@ -7,7 +7,7 @@ One-Pager ([PowerPoint](./assets/Eclipse_SDV_Hackathon_Two_2024_PlayByWire_Poste
 The idea of the 'Play by Wire' use case is that the driver or/and a passenger can play with each other while not driving and using Vehicle internal inputs to play!
 
 This hack challenge focuses on encouraging creativity, ideate ideas in the form of rapid prototyping in the playground of __digital.auto__ and transfer them easily to a working vehicle. 
-You can use the Eclipse projects [__Velocitas__](https://websites.eclipseprojects.io/velocitas/), [__Kuksa__](https://www.eclipse.org/kuksa/), [__Ankaios__](https://eclipse-ankaios.github.io/ankaios), [__digital.auto__](https://playground.digital.auto/), [__Eclipse ThreadX__](https://github.com/eclipse-threadx/rtos-docs/blob/main/rtos-docs/threadx/index.md)
+You can use the Eclipse projects [__Velocitas__](https://eclipse.dev/velocitas/), [__Kuksa__](https://www.eclipse.org/kuksa/), [__Ankaios__](https://eclipse-ankaios.github.io/ankaios), [__digital.auto__](https://playground.digital.auto/), [__Eclipse ThreadX__](https://github.com/eclipse-threadx/rtos-docs/blob/main/rtos-docs/threadx/index.md)
 
 Inputs as example:
 
