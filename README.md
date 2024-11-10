@@ -60,11 +60,11 @@ __Step 5: Choose the proper tool for deployment AND observation of workload on t
 __Step 6: Split up the team to get specialized in your domains and start hacking :)__
 
 You can test your prototype for example on the following hardware setups:
-Arduino Uno as Input with Joystick
-Raspberry Pi4 with Ubuntu and attached display
-ThreadX Eval Board with input of your choise
-Arduino H7 with Open1722 Protocol on it to pass through your CAN messages to Ethernet
-Your own Linux PC (recomended) 
+- Arduino Uno as Input with Joystick
+- Raspberry Pi4 with Ubuntu and attached display
+- ThreadX Eval Board with input of your choise
+- Arduino H7 with Open1722 Protocol on it to pass through your CAN messages to Ethernet
+- Your own Linux PC (Linux or dev container recomended) 
 
 And always remember: The Hack Coached are there to help if you get stuck.
 
