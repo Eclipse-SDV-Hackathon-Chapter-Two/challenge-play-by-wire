@@ -40,6 +40,8 @@ A tutorial form previous Hackthons can be found here: [HackChallange Passenger W
 
 Step 4: Choose your deployment architecture (Design E/E Architecture of your "Test Vehicle")
 - choose any draw tool (draw.IO or PPT or PlantUML or ...)
+Example: 
+|<img src="assets/exampleEEArch.png" width="800">|
 
 Step 5: Choose the proper tool for deployment on the different domains (Hint: 
 
