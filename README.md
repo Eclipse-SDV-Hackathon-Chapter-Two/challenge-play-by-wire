@@ -26,7 +26,24 @@ Your hack team should have the following skills:
 
 We would recomment the following steps for the hack challenge:
 
-upcoming :)
+Step 1: Investigate your Inputs e.g.
+- Arduino for "real" inputs [__Joystick input__](https://docs.sunfounder.com/projects/elite-explorer-kit/en/latest/basic_projects/20_basic_joystick.html#overview)
+- Keyboard inputs for Simulated Inputs 
+- XBox or PC with Telemetry datastream over UDP 
+
+Step 2: Identify your Game to play (e.g. Pong or SuperTux Kart)
+
+Step 3: Create a API wishlist with digital.auto for getting your interfaces defined
+A tutorial form previous Hackthons can be found here: [HackChallange Passenger Welcome](https://github.com/Eclipse-SDV-Hackathon-BCX/hackchallenge-passenger-welcome/blob/main/docs/step-1-prototyping.md)
+- Create a protoype with digital.auto: [Tutorial](https://eclipse.dev/velocitas/docs/tutorials/prototyping/digital_auto/) and [short video](https://drive.google.com/file/d/1qYfakx6E592PWBtPzAc_m_LrmBsvaI9K/view)
+- Create your own JSON with the COVESA [Vehicle Signal Specification (VSS)](https://covesa.github.io/vehicle_signal_specification/introduction/)
+
+Step 4: Choose your deployment architecture (Design E/E Architecture of your "Test Vehicle")
+- choose any draw tool (draw.IO or PPT or PlantUML or ...)
+
+Step 5: Choose the proper tool for deployment on the different domains (Hint: 
+
+
 
 You can test your prototype for example on the following hardware setups:
 Arduino Uno as Input with Joystick
